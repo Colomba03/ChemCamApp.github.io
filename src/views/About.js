@@ -1,7 +1,7 @@
 import React from "react";
 import "./views.css"
 
-function Information() {
+function About() {
   return (
     <div className="text">
       <h1>INFORMATIVE PART</h1>
@@ -9,4 +9,4 @@ function Information() {
   );
 }
 
-export default Information;
+export default About;

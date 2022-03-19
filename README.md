@@ -41,7 +41,9 @@ You don't have to ever use `eject`. The curated feature set is suitable for smal
 
 ### `npm run deploy`
 
-deploy the webpage to the gh-pages branch in GitHub
+**Note: Do not merge it with main branch!**
+
+Deploys the webpage to the gh-pages branch in GitHub.
 
 ## Learn More
 

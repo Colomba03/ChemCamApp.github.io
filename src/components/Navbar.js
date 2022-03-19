@@ -1,11 +1,22 @@
 import React from "react";
-import "./navbar.css";
+import { GiMaterialsScience } from "react-icons/gi";
+import { AppBar, Button, Toolbar } from "@material-ui/core";
+import "./Navbar.css";
 
 function Navbar() {
-  const pages = ['Home', 'Info', 'Description', 'Risk Management', 'Scope & Span'];
+
+  const pages = ['About', 'Description', 'Risk Management', 'Scope & Span'];
 
   return (
     <div>
+      <AppBar style={{ backgroundColor: "palegreen", zIndex: 1 }}>
+        <Toolbar>
+          <GiMaterialsScience fontSize={48} color="black" />
+          {pages.map((page) => (
+            <Button size="large" style={{marginLeft: 32}} >{page}</Button>
+          ))}
+        </Toolbar>
+      </AppBar>
     </div>
   );
 }

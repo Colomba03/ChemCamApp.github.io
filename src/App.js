@@ -1,4 +1,4 @@
-// import Navbar from './components/navbar';
+import Navbar from './components/Navbar';
 import Home from './views/Home';
 import Description from './views/DescriptivePart';
 import Information from './views/InformativePart';
@@ -8,6 +8,7 @@ import ScopeSpan from './views/ScopeSpan';
 function App() {
   return (
     <div>
+      <Navbar />
       <Home />
     </div>
   );

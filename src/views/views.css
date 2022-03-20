@@ -1,4 +1,21 @@
-.text {
-  font-family: sans-serif;
+@import url('https://fonts.googleapis.com/css2?family=Fredoka&display=swap');
+
+.homePage {
+  font-family: "Fredoka", sans-serif;
+}
+
+.generalInfo {
   text-align: center;
+}
+
+.title {
+  font-size: 64px;
+}
+
+.members {
+  margin-left: 84px !important;
+}
+
+.fullStack {
+  margin-left: 64px !important;
 }

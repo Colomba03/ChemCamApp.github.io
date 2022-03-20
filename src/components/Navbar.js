@@ -14,7 +14,7 @@ function Navbar() {
     <div>
       <AppBar style={{ backgroundColor: "palegreen", zIndex: 1, cursor: "pointer" }}>
         <Toolbar>
-          <GiMaterialsScience fontSize={48} color="black" onClick={() => navigate("/")} />
+          <GiMaterialsScience fontSize={48} color="black" onClick={() => navigate("/chemcamapp.github.io")} />
           {pages.map((page, pathIndex) => (
               <Button key={page} size="large" style={{marginLeft: 32}} onClick={() => navigate(paths[pathIndex])} >{page}</Button>
           ))}

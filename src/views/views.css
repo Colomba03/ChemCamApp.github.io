@@ -12,10 +12,14 @@
   font-size: 64px;
 }
 
-.members {
+.secHeader {
   margin-left: 84px !important;
 }
 
-.fullStack {
+.memberInfo {
   margin-left: 64px !important;
+}
+
+.linkInfo {
+  margin-left: 84px !important;
 }

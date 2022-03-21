@@ -1,5 +1,6 @@
 import React from "react";
 import { Container } from "@material-ui/core";
+import methodologyTable from "../assets/methodology.png";
 
 function ScopeSpan() {
   return (
@@ -21,6 +22,8 @@ function ScopeSpan() {
       <h2>Methodology</h2>
       <li>The project will be handled using Agile methodology. The team will use Trello to manage each sprint</li>
       <li>Meetings will be held weekly to report on progress and adjust the schedule if necessary</li>
+      <br /> <br />
+      <div style={{ textAlign:"center" }}><img src={methodologyTable} width="752px"></img></div>
     </Container>
   );
 }

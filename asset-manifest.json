@@ -1,15 +1,17 @@
 {
   "files": {
-    "main.css": "/chemcamapp.github.io/static/css/main.8ebc6da3.css",
-    "main.js": "/chemcamapp.github.io/static/js/main.41906954.js",
+    "main.css": "/chemcamapp.github.io/static/css/main.649b469e.css",
+    "main.js": "/chemcamapp.github.io/static/js/main.23b57768.js",
     "static/js/787.5efa02da.chunk.js": "/chemcamapp.github.io/static/js/787.5efa02da.chunk.js",
+    "static/media/methodology.png": "/chemcamapp.github.io/static/media/methodology.91ee37764774ab0a0e18.png",
+    "static/media/risks.png": "/chemcamapp.github.io/static/media/risks.f2853d24d25c3933b717.png",
     "index.html": "/chemcamapp.github.io/index.html",
-    "main.8ebc6da3.css.map": "/chemcamapp.github.io/static/css/main.8ebc6da3.css.map",
-    "main.41906954.js.map": "/chemcamapp.github.io/static/js/main.41906954.js.map",
+    "main.649b469e.css.map": "/chemcamapp.github.io/static/css/main.649b469e.css.map",
+    "main.23b57768.js.map": "/chemcamapp.github.io/static/js/main.23b57768.js.map",
     "787.5efa02da.chunk.js.map": "/chemcamapp.github.io/static/js/787.5efa02da.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.8ebc6da3.css",
-    "static/js/main.41906954.js"
+    "static/css/main.649b469e.css",
+    "static/js/main.23b57768.js"
   ]
 }

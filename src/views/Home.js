@@ -4,7 +4,7 @@ import "./views.css";
 
 function Home() {
   return (
-    <Container className="homePage">
+    <Container className="mainFont">
       <Container className="generalInfo">
         <h1 className="title">CHEMCAM</h1>
         <div>

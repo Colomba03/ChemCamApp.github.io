@@ -1,11 +1,11 @@
 import React from "react";
-import "./views.css"
+import { Container } from "@material-ui/core";
 
 function Risks() {
   return (
-    <div className="text">
-      <h1>RISKS</h1>
-    </div>
+    <Container className="mainFont" style={{textAlign:"justify"}}>
+      <h2>Risks</h2>
+    </Container>
   );
 }
 

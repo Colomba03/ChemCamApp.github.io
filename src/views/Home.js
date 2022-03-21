@@ -4,15 +4,15 @@ import "./views.css";
 
 function Home() {
   return (
-    <Container className="homePage">
+    <Container className="mainFont">
       <Container className="generalInfo">
         <h1 className="title">CHEMCAM</h1>
-        <body>
+        <div>
           University of Puerto Rico, Mayagüez Campus <br />
           Department of Computer Science and Engineering <br />
           Software Requirements <br />
           INSO 4115 <br /> <br />
-        </body>
+        </div>
       </Container>
       <Container>
         <h2 className="members">Developers</h2>

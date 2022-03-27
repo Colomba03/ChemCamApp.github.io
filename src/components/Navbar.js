@@ -7,12 +7,12 @@ import "./Navbar.css";
 function Navbar() {
 
   const navigate = useNavigate();
-  const pages = ["About", "Description", "Risk Management", "Scope & Span"];
-  const paths = ["/about", "/description", "/risks", "/scopespan"];
+  const pages = ["About", "Description", "Risk Management", "Scope & Span", "Architecture Design", "Diagrams"];
+  const paths = ["/about", "/description", "/risks", "/scopespan", "/archdesign", "/diagrams"];
 
   return (
     <div>
-      <AppBar style={{ backgroundColor: "palegreen", zIndex: 1, cursor: "pointer" }}>
+      <AppBar style={{ backgroundColor: "violet", zIndex: 1, cursor: "pointer" }}>
         <Toolbar>
           <GiMaterialsScience fontSize={48} color="black" onClick={() => navigate("/chemcamapp.github.io")} />
           {pages.map((page, pathIndex) => (

@@ -14,7 +14,7 @@ function Home() {
           INSO 4115 <br /> <br />
         </div>
       </Container>
-      <Container>
+      <Container >
         <h2 className="secHeader">Developers</h2>
         <Grid container>
           <Grid item xs={4}>

@@ -1,17 +1,21 @@
 {
   "files": {
-    "main.css": "/chemcamapp.github.io/static/css/main.649b469e.css",
-    "main.js": "/chemcamapp.github.io/static/js/main.23b57768.js",
+    "main.css": "/chemcamapp.github.io/static/css/main.de75fd25.css",
+    "main.js": "/chemcamapp.github.io/static/js/main.e7318df2.js",
     "static/js/787.5efa02da.chunk.js": "/chemcamapp.github.io/static/js/787.5efa02da.chunk.js",
-    "static/media/methodology.png": "/chemcamapp.github.io/static/media/methodology.91ee37764774ab0a0e18.png",
-    "static/media/risks.png": "/chemcamapp.github.io/static/media/risks.f2853d24d25c3933b717.png",
+    "static/media/class-diagram.png": "/chemcamapp.github.io/static/media/class-diagram.5e902e97ac3adfb9b0f8.png",
+    "static/media/rough-er.png": "/chemcamapp.github.io/static/media/rough-er.401e68728383e3968ad9.png",
+    "static/media/soft-arch.png": "/chemcamapp.github.io/static/media/soft-arch.ff92c3447310b348ff75.png",
+    "static/media/comp-design.png": "/chemcamapp.github.io/static/media/comp-design.b8580995d59b8c70e96a.png",
+    "static/media/coffee-chem.png": "/chemcamapp.github.io/static/media/coffee-chem.7c489636a21b28b3490d.png",
+    "static/media/rough-sketch.png": "/chemcamapp.github.io/static/media/rough-sketch.fed260cacb2bb1a706e5.png",
     "index.html": "/chemcamapp.github.io/index.html",
-    "main.649b469e.css.map": "/chemcamapp.github.io/static/css/main.649b469e.css.map",
-    "main.23b57768.js.map": "/chemcamapp.github.io/static/js/main.23b57768.js.map",
+    "main.de75fd25.css.map": "/chemcamapp.github.io/static/css/main.de75fd25.css.map",
+    "main.e7318df2.js.map": "/chemcamapp.github.io/static/js/main.e7318df2.js.map",
     "787.5efa02da.chunk.js.map": "/chemcamapp.github.io/static/js/787.5efa02da.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.649b469e.css",
-    "static/js/main.23b57768.js"
+    "static/css/main.de75fd25.css",
+    "static/js/main.e7318df2.js"
   ]
 }

@@ -11,15 +11,28 @@ function Home() {
           University of Puerto Rico, Mayagüez Campus <br />
           Department of Computer Science and Engineering <br />
           Software Requirements <br />
-          INSO 4115 <br /> <br />
+          INSO 4115
         </div>
       </Container>
+      <br /> <br />
+      <Container>
+        <h2 className="secHeader">Contact Information</h2>
+        <div className="homeInfo">
+        <b>Email</b> <br />
+        <div>chemcamapp@gmail.com</div>
+        <br />
+        <b>Phone</b> <br />
+        <div>(787)-208-0252</div>
+        </div>
+      </Container>
+      <br /> <br />
       <Container>
         <h2 className="secHeader">Developers</h2>
         <Grid container>
-          <Grid item xs={4}>
+          <Grid item xs={3} />
+          <Grid item xs={3}>
+          <b className="stack">Frontend</b>
             <Container className="memberInfo">
-            <b>Frontend</b>
             <li>Gabriela Cardona</li>
             <li>Zaneisha Estrella</li>
             <li>Génesis Torres</li>
@@ -27,26 +40,27 @@ function Home() {
             <li>Arnaldo Espinel</li>
             </Container>
           </Grid>
-          <Grid item xs={4}>
+          <Grid item xs={3}>
+          <b className="stack">Backend</b>
             <Container className="memberInfo">
-            <b>Backend</b>
             <li>Luis Colomba</li>
             <li>Bryan Torres</li>
             <li>Carlos Torres</li>
             </Container>
           </Grid>
+          <Grid item xs={3} />
         </Grid>
       </Container>
       <br /> <br />
       <Container>
         <h2 className="secHeader">Links</h2>
-        <div className="linkInfo">
+        <div className="homeInfo">
         <b>Github</b> <br />
         <a href={"https://github.com/Colomba03/chemcamapp.github.io"}>https://github.com/Colomba03/chemcamapp.github.io</a>
         <br /> <br />
         <b>Trello</b> <br />
         <a href={"https://trello.com/b/eo9RFLjW/team-6-chemcam"}>https://trello.com/b/eo9RFLjW/team-6-chemcam</a>
-        </div> <br />
+        </div> <br /> <br />
       </Container>
     </Container>
   );

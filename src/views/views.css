@@ -23,13 +23,17 @@
 }
 
 .secHeader {
-  margin-left: 84px !important;
+  margin-left: 344px !important;
+}
+
+.stack {
+  margin-left: 72px !important;
 }
 
 .memberInfo {
   margin-left: 64px !important;
 }
 
-.linkInfo {
-  margin-left: 84px !important;
+.homeInfo {
+  margin-left: 372px !important;
 }

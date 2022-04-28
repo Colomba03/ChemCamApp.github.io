@@ -33,7 +33,6 @@ function Home() {
           <Grid item xs={3}>
           <b className="stack">Frontend</b>
             <Container className="memberInfo">
-            <li>Gabriela Cardona</li>
             <li>Zaneisha Estrella</li>
             <li>Génesis Torres</li>
             <li>Ricardo Storm</li>
@@ -46,6 +45,7 @@ function Home() {
             <li>Luis Colomba</li>
             <li>Bryan Torres</li>
             <li>Carlos Torres</li>
+            <li>Gabriela Cardona</li>
             </Container>
           </Grid>
           <Grid item xs={3} />

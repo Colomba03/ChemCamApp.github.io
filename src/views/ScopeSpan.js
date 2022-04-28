@@ -7,24 +7,28 @@ function ScopeSpan() {
   const tableData = [
     { phaseNum: 1, 
       startDate: "Feb 28, 2022", 
-      endDate: "Mar 12, 2022", 
+      endDate: "Mar 16, 2022", 
       tasks: "Design mockups for admin console and frontend, plan backend infrastructure." },
     { phaseNum: 2, 
-      startDate: "Mar 13, 2022", 
-      endDate: "Mar 21, 2022", 
-      tasks: "Implement the frontend and backend." },
+      startDate: "Mar 17, 2022", 
+      endDate: "Mar 23, 2022", 
+      tasks: "Implement initial functions for frontend and backend." },
     { phaseNum: 3, 
-      startDate: "Mar 22, 2022", 
-      endDate: "Mar 30, 2022", 
-      tasks: "Wireframe connection between frontend, backend and admin console." },
+      startDate: "Mar 24, 2022", 
+      endDate: "Mar 29, 2022", 
+      tasks: "Implement main functions (Lexer and OCR) for frontend and backend." },
     { phaseNum: 4, 
-      startDate: "Mar 31, 2022", 
-      endDate: "Apr 8, 2022", 
-      tasks: "Testing." },
+      startDate: "Mar 30, 2022", 
+      endDate: "Apr 6, 2022", 
+      tasks: "Wireframe connection between frontend, backend and admin console." },
       { phaseNum: 5, 
-        startDate: "Apr 10, 2022", 
-        endDate: "Apr 24, 2022", 
-        tasks: "Production Rollout." }];
+        startDate: "Apr 7, 2022", 
+        endDate: "Apr 20, 2022", 
+        tasks: "Deployment and Testing." },
+        { phaseNum: 6, 
+          startDate: "Apr 21, 2022", 
+          endDate: "Apr 29, 2022", 
+          tasks: "Production Rollout." }];
 
 
   return (
@@ -39,8 +43,8 @@ function ScopeSpan() {
 
       <h2>Span</h2>
       <b>Time Frame</b>
-      <li>The project will be submitted on April 27, 2022</li>
-      <li>Work will begin on February 28, 2022 and end on April 24, 2022</li>
+      <li>The project will be submitted on April 29, 2022</li>
+      <li>Work will begin on February 28, 2022 and end on April 29, 2022</li>
       <br />
 
       <h2>Methodology</h2>

@@ -19,7 +19,6 @@ function About() {
           majors surrounding chemistry, and have many difficulties
           or conflicts when studying for these required chemistry
           courses. Those that are within the field of chemistry
-
           are always searching for ways to make their studying and
           workflow more efficient. We are designing an application
           that can receive a basic chemistry problem or question,
@@ -27,9 +26,9 @@ function About() {
           the system resolves the equation. The purpose is to
           design a lexer that can read the chemical formulas and
           symbols from a text input or image. To save it like
-          tokens so the system can resolve the problem . We are
-          still in the planning phase for the structure and look
-          for our application.
+          tokens so the system can resolve the problem. We are
+          in the deployment and testing phase for our application.
+
       </p>
       <br />
 
@@ -43,6 +42,7 @@ function About() {
           a deeper understanding of the fundamental materials,
           concepts, and methods they will need in their future
           careers.
+          <br/><br/>
           In order to satisfy their needs, our team will
           design an application that lets the user photograph
           and scan chemistry problems using their phone

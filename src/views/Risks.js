@@ -99,7 +99,7 @@ function Risks() {
         by one of our experts and then the system will be debugged to find where it went wrong.
       </div>
       <br />
-      <b>What if a user inputs a question and the lexer cannot recognize some of the symbols?</b>
+      <b>What if a user inputs a question and the lexer cannot recognize some of the numbers, letters or symbols?</b>
       <div>
         The user will be shown an error message with an explanation on what symbol they entered incorrectly,
         and which are the correct ones.
